@@ -5,7 +5,7 @@
 - Business: My Home Designer
 - Founded: 9 November 2025 (founder-provided)
 - Website: https://myhomdesigner.in
-- Contact: info@myhomdesigner.in
+- Contact: info@myhomedesigner.in
 
 ## Problem and workflow
 

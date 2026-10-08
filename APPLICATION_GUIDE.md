@@ -5,7 +5,7 @@
 - Name: My Home Designer
 - Founder applying: Manish Sharma
 - Founded: 9 November 2025 (09/11/2025 interpreted as DD/MM/YYYY)
-- Email: info@myhomdesigner.in
+- Email: info@myhomedesigner.in
 - Website: https://myhomdesigner.in
 - Location: Bhagalpur, Bihar, India
 - Business: Interior design and execution, including modular kitchens, wardrobes, TV units, complete interiors and UPVC windows.
